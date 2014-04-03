@@ -29,6 +29,7 @@
   	console.log(promise1 === promise1.promise());//true 对promise对象再调用promise方法，只不过产生一个指向相同对象的引用
   	
 >使用promise方法的唯一理由就是“封装”。
+
 ###2.1jquery API中的promise对象
 
 		Animation
