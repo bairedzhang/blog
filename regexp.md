@@ -60,4 +60,11 @@ RegExp每个实例都有下列属性：
 	lastParen		$+		最近一次匹配的捕获组
 	leftContext    	$`		input字符串中lastMatch之前的文本
 	multiline		$*		布尔值，表示是否所有表达式都使用多行模式。
-	rightContext	$`		input字符串中lastMatch之后的文本	
+	rightContext	$`		input字符串中lastMatch之后的文本
+	
+##语法
+![Alt text](pic/reg1.png)
+![Alt text](pic/reg2.png)
+![Alt text](pic/reg3.png)
+![Alt text](pic/reg4.png)
+	
